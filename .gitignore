@@ -1,0 +1,36 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+.env
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# C++ build artifacts and common binary names
+*.o
+*.obj
+*.exe
+*.out
+a.out
+bin/
+build/
+
+# Ignore common main/solution binaries or files
+main
+main.exe
+main.out
+main.o
+solution
+solution.exe
+solution.out
+solution.o
